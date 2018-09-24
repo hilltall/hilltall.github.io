@@ -3,9 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
 The author of the blog teaches english as a second language in a government run secondary school in Marseille, France.
 
 ### More Information
